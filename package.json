@@ -1,3 +1,4 @@
+{
     "dependencies": {
         "@project-serum/anchor": "^0.22.1",
         "react-toastify": "^8.2.0"
