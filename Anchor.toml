@@ -1,4 +1,3 @@
-[features]
 seeds = false
 [programs.localnet]
 baked_beans = "557BPiUp8WSumh7PcLpXE12VZppRhiezdHRdfhKAVANn"
